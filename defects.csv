@@ -1,0 +1,371 @@
+﻿task_id,priority,age,epic,status,labels,reporter,assignee,created_date,updated_date
+TemplrJS-2443,P3,71,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Open,Unlabeled,Sarah Clarke,Joseph Lee,3/28/24 20:00,3/28/24 20:00
+TemplrJS-2428,P2,73,Unify Access Control for Clinical Information Systems,Closed,Release Note,Sarah Clarke,Sarah Clarke,3/26/24 20:00,3/28/24 20:00
+TemplrJS-2389,P3,79,Centralize Reference Data for Clinical Services,Closed,Improvement,William Ford,Steven Nolan,3/20/24 20:00,3/28/24 20:00
+TemplrJS-2432,P2,72,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Closed,Unlabeled,Sarah Clarke,Melissa Thornton,3/27/24 20:00,3/28/24 20:00
+TemplrJS-2439,P3,72,Unify Access Control for Clinical Information Systems,Resolved,OAuth,Heather Griffith,Jennifer Ross,3/27/24 20:00,3/28/24 20:00
+TemplrJS-2340,P2,81,Unify Access Control for Clinical Information Systems,Closed,OAuth,Jennifer Patrick,Nathan Clark,3/18/24 20:00,3/28/24 20:00
+TemplrJS-2446,P3,71,Unify Access Control for Clinical Information Systems,Open,Unlabeled,Kimberly Barnett,Stuart Benitez,3/28/24 20:00,3/28/24 20:00
+TemplrJS-2435,P2,79,Centralize Reference Data for Clinical Services,Reopened,Unlabeled,Mr. Benjamin Torres,Jennifer Patrick,3/20/24 20:00,3/28/24 20:00
+TemplrJS-2444,P2,71,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Open,Unlabeled,Sarah Clarke,Joseph Lee,3/28/24 20:00,3/28/24 20:00
+TemplrJS-2442,P3,72,Establish Secure Data Transfer Protocols for Trials,Open,Unlabeled,Heather Griffith,Brian Wallace,3/27/24 20:00,3/28/24 20:00
+TemplrJS-2440,P2,72,Unify Access Control for Clinical Information Systems,Open,OAuth,Heather Griffith,Heather Griffith,3/27/24 20:00,3/28/24 20:00
+TemplrJS-2424,P2,73,Unify Access Control for Clinical Information Systems,In Review,Unlabeled,Kimberly Barnett,James Sandoval,3/26/24 20:00,3/28/24 20:00
+TemplrJS-2329,P2,81,Centralize Reference Data for Clinical Services,In Progress,Improvement,Sarah Clarke,Kathryn Johnson,3/18/24 20:00,3/28/24 20:00
+TemplrJS-2448,P2,71,Address Specific Data System Optimization Requests for Patient Data Services,Open,OAuth,Kimberly Barnett,Alicia Molina,3/28/24 20:00,3/28/24 20:00
+TemplrJS-2357,P2,80,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Closed,Unlabeled,Sarah Clarke,Joseph Lee,3/19/24 20:00,3/28/24 20:00
+TemplrJS-1301,P2,227,Establish Secure Data Transfer Protocols for Trials,Reopened,Unlabeled,Sarah Clarke,Stuart Benitez,10/24/23 20:00,3/28/24 20:00
+TemplrJS-2447,P2,71,Establish Secure Data Transfer Protocols for Trials,Open,Unlabeled,William Ford,Jennifer Patrick,3/28/24 20:00,3/28/24 20:00
+TemplrJS-2445,P2,71,Unify Access Control for Clinical Information Systems,Open,Unlabeled,Sarah Clarke,Stuart Benitez,3/28/24 20:00,3/28/24 20:00
+TemplrJS-1949,P2,124,Enable Cloud-Based Clinical Data Handling,Closed,Unlabeled,Sarah Clarke,Tanya Peters,2/4/24 19:00,3/27/24 20:00
+TemplrJS-1584,P1,178,Optimize Server Load Handling and Output Management,Closed,Unlabeled,Jose Hutchinson,Lisa Holmes,12/12/23 19:00,3/27/24 20:00
+TemplrJS-1508,P3,198,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Amy Carroll,Tanya Peters,11/22/23 19:00,3/27/24 20:00
+TemplrJS-2390,P2,79,Centralize Reference Data for Clinical Services,Closed,Unlabeled,William Ford,Joseph Lee,3/20/24 20:00,3/27/24 20:00
+TemplrJS-2431,P3,72,Establish Secure Data Transfer Protocols for Trials,Resolved,Unlabeled,Erika Warren,Lisa Holmes,3/27/24 20:00,3/27/24 20:00
+TemplrJS-2423,P2,73,Extend SQL Support for Enhanced Clinical Data Analysis,Resolved,Regression,Sarah Clarke,Tanya Peters,3/26/24 20:00,3/27/24 20:00
+TemplrJS-1196,P2,243,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Jose Hutchinson,Lisa Holmes,10/8/23 20:00,3/27/24 20:00
+TemplrJS-1780,P2,142,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,William Ford,Tanya Peters,1/17/24 19:00,3/27/24 20:00
+TemplrJS-2426,P2,73,Establish Secure Data Transfer Protocols for Trials,In Review,Documentation,Benjamin Cortez,Lisa Holmes,3/26/24 20:00,3/27/24 20:00
+TemplrJS-2429,P1,73,Establish Secure Data Transfer Protocols for Trials,Resolved,Unlabeled,Jose Hutchinson,Lisa Holmes,3/26/24 20:00,3/27/24 20:00
+TemplrJS-2422,P2,73,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Closed,Unlabeled,Kimberly Barnett,Melissa Thornton,3/26/24 20:00,3/27/24 20:00
+TemplrJS-2408,P2,75,Unify Access Control for Clinical Information Systems,Resolved,OAuth,Sarah Clarke,Ashley Smith,3/24/24 20:00,3/27/24 20:00
+TemplrJS-2433,P3,72,Establish Secure Data Transfer Protocols for Trials,Open,Unlabeled,Kimberly Barnett,Stuart Benitez,3/27/24 20:00,3/27/24 20:00
+TemplrJS-1983,P1,121,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Jose Hutchinson,Kenneth Castillo,2/7/24 19:00,3/27/24 20:00
+TemplrJS-1435,P2,208,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Kimberly Barnett,Stuart Benitez,11/12/23 19:00,3/27/24 20:00
+TemplrJS-2436,P3,72,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Open,Unlabeled,Kimberly Barnett,Jordan Moon,3/27/24 20:00,3/27/24 20:00
+TemplrJS-2415,P2,74,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Closed,Unlabeled,Sarah Clarke,Melissa Thornton,3/25/24 20:00,3/27/24 20:00
+TemplrJS-2382,P3,79,Centralize Reference Data for Clinical Services,Closed,Improvement,William Ford,Steven Nolan,3/20/24 20:00,3/27/24 20:00
+TemplrJS-1940,P2,127,Automate Detection of Key Terms in Clinical Reports,Closed,Unlabeled,Jose Hutchinson,Christian Rollins,2/1/24 19:00,3/27/24 20:00
+TemplrJS-2364,P3,80,Unify Access Control for Clinical Information Systems,Closed,Improvement,Heather Griffith,Steven Nolan,3/19/24 20:00,3/27/24 20:00
+TemplrJS-2438,P2,72,Unify Access Control for Clinical Information Systems,Open,Unlabeled,Sarah Clarke,Jordan Moon,3/27/24 20:00,3/27/24 20:00
+TemplrJS-2257,P2,88,Unify Access Control for Clinical Information Systems,Reopened,Improvement,Wesley Williams,Jordan Moon,3/11/24 20:00,3/27/24 20:00
+TemplrJS-2173,P2,96,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Closed,Unlabeled,Sarah Clarke,Joseph Lee,3/3/24 19:00,3/27/24 20:00
+TemplrJS-2425,P3,73,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Sarah Clarke,Sarah Clarke,3/26/24 20:00,3/27/24 20:00
+TemplrJS-2434,P3,72,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Open,Unlabeled,Kimberly Barnett,Stuart Benitez,3/27/24 20:00,3/27/24 20:00
+TemplrJS-2365,P2,80,Unify Access Control for Clinical Information Systems,Closed,Improvement,Heather Griffith,Steven Nolan,3/19/24 20:00,3/27/24 20:00
+TemplrJS-2276,P2,88,Unify Access Control for Clinical Information Systems,Closed,Improvement,Wesley Williams,Wesley Williams,3/11/24 20:00,3/27/24 20:00
+TemplrJS-2171,P3,99,Establish Secure Data Transfer Protocols for Trials,Resolved,Documentation,Jose Hutchinson,Lisa Holmes,2/29/24 19:00,3/27/24 20:00
+TemplrJS-2427,P1,73,Unify Access Control for Clinical Information Systems,Closed,OAuth,Kimberly Barnett,Sara Shepherd,3/26/24 20:00,3/26/24 20:00
+TemplrJS-2407,P1,75,Address Specific Data System Optimization Requests for Patient Data Services,Closed,OAuth,Kimberly Barnett,Victoria Douglas,3/24/24 20:00,3/26/24 20:00
+TemplrJS-2420,P1,73,Unify Access Control for Clinical Information Systems,Closed,OAuth,Kimberly Barnett,Ashley Smith,3/26/24 20:00,3/26/24 20:00
+TemplrJS-2394,P3,78,Centralize Reference Data for Clinical Services,Closed,Unlabeled,David Vasquez,David Vasquez,3/21/24 20:00,3/26/24 20:00
+TemplrJS-2400,P2,78,Unify Access Control for Clinical Information Systems,Closed,OAuth,Kimberly Barnett,Jennifer Ross,3/21/24 20:00,3/26/24 20:00
+TemplrJS-2371,P2,79,Unify Access Control for Clinical Information Systems,Closed,OAuth,Kimberly Barnett,Cheryl Frederick,3/20/24 20:00,3/26/24 20:00
+TemplrJS-2403,P2,78,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Heather Griffith,James Sandoval,3/21/24 20:00,3/26/24 20:00
+TemplrJS-2391,P3,79,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Closed,Unlabeled,William Ford,Melissa Thornton,3/20/24 20:00,3/26/24 20:00
+TemplrJS-2387,P3,79,Centralize Reference Data for Clinical Services,Closed,Unlabeled,William Ford,Melissa Thornton,3/20/24 20:00,3/26/24 20:00
+TemplrJS-2401,P2,78,Unify Access Control for Clinical Information Systems,Closed,OAuth,Kimberly Barnett,Cheryl Frederick,3/21/24 20:00,3/26/24 20:00
+TemplrJS-2411,P3,75,Track Metadata More Effectively in Clinical File Systems,In Review,Documentation,Kimberly Barnett,Lisa Holmes,3/24/24 20:00,3/26/24 20:00
+TemplrJS-2299,P1,87,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Jose Hutchinson,Nicholas Santana,3/12/24 20:00,3/26/24 20:00
+TemplrJS-2404,P2,78,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,William Ford,Lisa Holmes,3/21/24 20:00,3/26/24 20:00
+TemplrJS-2352,P3,80,Unify Access Control for Clinical Information Systems,Open,Release Note,Amy Carroll,Stuart Benitez,3/19/24 20:00,3/26/24 20:00
+TemplrJS-1927,P4,127,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Erika Warren,Stuart Benitez,2/1/24 19:00,3/26/24 20:00
+TemplrJS-2421,P1,73,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Kimberly Barnett,James Sandoval,3/26/24 20:00,3/26/24 20:00
+TemplrJS-2120,P1,102,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Erika Warren,Christian Rollins,2/26/24 19:00,3/26/24 20:00
+TemplrJS-2419,P2,74,Establish Secure Data Transfer Protocols for Trials,Resolved,Unlabeled,Jose Hutchinson,Lisa Holmes,3/25/24 20:00,3/26/24 20:00
+TemplrJS-2168,P1,99,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Jose Hutchinson,Christian Rollins,2/29/24 19:00,3/26/24 20:00
+TemplrJS-2410,P2,75,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Kimberly Barnett,Melissa Thornton,3/24/24 20:00,3/26/24 20:00
+TemplrJS-2414,P3,74,Unify Access Control for Clinical Information Systems,Open,Release Note,Sarah Clarke,Jennifer Patrick,3/25/24 20:00,3/26/24 20:00
+TemplrJS-2409,P1,75,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Kimberly Barnett,James Sandoval,3/24/24 20:00,3/26/24 20:00
+TemplrJS-2397,P2,78,Unify Access Control for Clinical Information Systems,Closed,OAuth,Wesley Williams,Cheryl Frederick,3/21/24 20:00,3/26/24 20:00
+TemplrJS-2402,P2,78,Unify Access Control for Clinical Information Systems,Closed,OAuth,Kimberly Barnett,Kimberly Barnett,3/21/24 20:00,3/26/24 20:00
+TemplrJS-1959,P1,123,Establish Secure Data Transfer Protocols for Trials,Closed,Blocker,Jose Hutchinson,Lisa Holmes,2/5/24 19:00,3/26/24 20:00
+TemplrJS-2278,P2,88,Unify Access Control for Clinical Information Systems,Resolved,Release Note,Sarah Clarke,Jennifer Patrick,3/11/24 20:00,3/25/24 20:00
+TemplrJS-2372,P4,79,Unify Access Control for Clinical Information Systems,Open,Improvement,William Ford,Stuart Benitez,3/20/24 20:00,3/25/24 20:00
+TemplrJS-2374,P4,79,Incorporate New Alert Features into Clinical Application Interfaces,Open,Improvement,William Ford,Stuart Benitez,3/20/24 20:00,3/25/24 20:00
+TemplrJS-2306,P3,86,Automate Detection of Key Terms in Clinical Reports,Closed,Unlabeled,Kimberly Barnett,Christian Rollins,3/13/24 20:00,3/25/24 20:00
+TemplrJS-1662,P1,170,Enhance Extraction of Document Attributes for Clinical Use,Reopened,Unlabeled,Kimberly Barnett,Fred Giles,12/20/23 19:00,3/25/24 20:00
+TemplrJS-2383,P3,79,Centralize Reference Data for Clinical Services,Open,Improvement,William Ford,Amber Dickson,3/20/24 20:00,3/25/24 20:00
+TemplrJS-2237,P3,92,Automate Detection of Key Terms in Clinical Reports,Closed,Documentation,Kimberly Barnett,Christian Rollins,3/7/24 19:00,3/25/24 20:00
+TemplrJS-1646,P3,172,Establish Secure Data Transfer Protocols for Trials,Open,OAuth,Sarah Clarke,Brian Wallace,12/18/23 19:00,3/25/24 20:00
+TemplrJS-2381,P4,79,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Open,Release Note,William Ford,Joseph Lee,3/20/24 20:00,3/25/24 20:00
+TemplrJS-2417,P1,74,Unify Access Control for Clinical Information Systems,Closed,OAuth,Sarah Clarke,Sarah Clarke,3/25/24 20:00,3/25/24 20:00
+TemplrJS-2127,P2,102,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Jose Hutchinson,Lisa Holmes,2/26/24 19:00,3/24/24 20:00
+TemplrJS-2392,P3,78,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Kimberly Barnett,Kimberly Barnett,3/21/24 20:00,3/24/24 20:00
+TemplrJS-2380,P2,79,Address Specific Data System Optimization Requests for Patient Data Services,Open,Improvement,Sarah Clarke,Lisa Holmes,3/20/24 20:00,3/24/24 20:00
+TemplrJS-2393,P3,78,Automate Detection of Key Terms in Clinical Reports,Closed,Unlabeled,Kimberly Barnett,Christian Rollins,3/21/24 20:00,3/24/24 20:00
+TemplrJS-2279,P1,88,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Jose Hutchinson,Lisa Holmes,3/11/24 20:00,3/24/24 20:00
+TemplrJS-1836,P1,135,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Jose Hutchinson,Lisa Holmes,1/24/24 19:00,3/24/24 20:00
+TemplrJS-2336,P2,81,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Heather Griffith,Jennifer Patrick,3/18/24 20:00,3/24/24 20:00
+TemplrJS-2303,P2,86,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Wesley Williams,Wesley Williams,3/13/24 20:00,3/24/24 20:00
+TemplrJS-2413,P1,75,Establish Secure Data Transfer Protocols for Trials,Resolved,Unlabeled,Jose Hutchinson,Lisa Holmes,3/24/24 20:00,3/24/24 20:00
+TemplrJS-1521,P3,190,Establish Secure Data Transfer Protocols for Trials,Resolved,Release Note,Stephen Rogers,Lisa Holmes,11/30/23 19:00,3/21/24 20:00
+TemplrJS-2215,P2,94,Address Specific Data System Optimization Requests for Patient Data Services,Closed,Unlabeled,Sarah Clarke,Tonya Hart,3/5/24 19:00,3/21/24 20:00
+TemplrJS-2214,P2,94,Address Specific Data System Optimization Requests for Patient Data Services,Closed,Unlabeled,Sarah Clarke,Lisa Holmes,3/5/24 19:00,3/21/24 20:00
+TemplrJS-2362,P3,80,Unify Access Control for Clinical Information Systems,Open,Release Note,Heather Griffith,Stuart Benitez,3/19/24 20:00,3/21/24 20:00
+TemplrJS-1930,P1,127,Optimize Server Load Handling and Output Management,Resolved,Unlabeled,Erika Warren,Tanya Peters,2/1/24 19:00,3/21/24 20:00
+TemplrJS-1675,P2,157,Optimize Server Load Handling and Output Management,Closed,Unlabeled,Jose Hutchinson,Lisa Holmes,1/2/24 19:00,3/21/24 20:00
+TemplrJS-1967,P3,122,Incorporate New Alert Features into Clinical Application Interfaces,Closed,Unlabeled,Wesley Williams,Stuart Benitez,2/6/24 19:00,3/21/24 20:00
+TemplrJS-2312,P2,85,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Jonathon Duncan,Stuart Benitez,3/14/24 20:00,3/21/24 20:00
+TemplrJS-2223,P1,94,Enable Integration of Structured Clinical Data in File Systems,Closed,Unlabeled,Sarah Clarke,Lisa Holmes,3/5/24 19:00,3/21/24 20:00
+TemplrJS-2395,P2,78,Unify Access Control for Clinical Information Systems,Open,Unlabeled,Sarah Clarke,Jordan Moon,3/21/24 20:00,3/21/24 20:00
+TemplrJS-2350,P1,80,Unify Access Control for Clinical Information Systems,Resolved,OAuth,Amy Carroll,Amy Carroll,3/19/24 20:00,3/21/24 20:00
+TemplrJS-2332,P2,81,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Kimberly Barnett,Joseph Lee,3/18/24 20:00,3/20/24 20:00
+TemplrJS-1649,P2,172,Improve Clinical Data Rescan Procedures for Efficiency,Closed,Unlabeled,Amy Carroll,Heather Griffith,12/18/23 19:00,3/20/24 20:00
+TemplrJS-2358,P3,80,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Sarah Clarke,Kevin Williams,3/19/24 20:00,3/20/24 20:00
+TemplrJS-2334,P2,81,Unify Access Control for Clinical Information Systems,Closed,OAuth,Wesley Williams,Krista Dean,3/18/24 20:00,3/20/24 20:00
+TemplrJS-2337,P1,81,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Kimberly Barnett,Ashley Smith,3/18/24 20:00,3/20/24 20:00
+TemplrJS-2335,P1,81,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Kimberly Barnett,Lisa Holmes,3/18/24 20:00,3/20/24 20:00
+TemplrJS-2253,P1,88,Unify Access Control for Clinical Information Systems,Closed,OAuth,Sarah Clarke,Sarah Clarke,3/11/24 20:00,3/20/24 20:00
+TemplrJS-2212,P2,94,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Sarah Clarke,Sarah Clarke,3/5/24 19:00,3/20/24 20:00
+TemplrJS-2050,P3,113,Address Specific Data System Optimization Requests for Patient Data Services,Closed,Known Issues,Sarah Clarke,Nicholas Santana,2/15/24 19:00,3/20/24 20:00
+TemplrJS-2373,P2,79,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Kimberly Barnett,Joseph Lee,3/20/24 20:00,3/20/24 20:00
+TemplrJS-2058,P3,113,Develop Clinical Data Dictionary Interface,Closed,Unlabeled,Amy Carroll,Amber Dickson,2/15/24 19:00,3/20/24 20:00
+TemplrJS-2349,P2,80,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Closed,Unlabeled,Sarah Clarke,Joseph Lee,3/19/24 20:00,3/20/24 20:00
+TemplrJS-2353,P3,80,Unify Access Control for Clinical Information Systems,Closed,OAuth,Amy Carroll,Nathan Clark,3/19/24 20:00,3/20/24 20:00
+TemplrJS-1070,P4,254,Enhance Patient Notification System Interface,Closed,Unlabeled,William Ford,James Sandoval,9/27/23 20:00,3/20/24 20:00
+TemplrJS-2354,P2,80,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Amy Carroll,Jennifer Patrick,3/19/24 20:00,3/20/24 20:00
+TemplrJS-2126,P1,102,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Jose Hutchinson,Christian Rollins,2/26/24 19:00,3/20/24 20:00
+TemplrJS-2322,P2,82,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Closed,Unlabeled,Sarah Clarke,Joseph Lee,3/17/24 20:00,3/20/24 20:00
+TemplrJS-2321,P1,82,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Sarah Clarke,Jennifer Patrick,3/17/24 20:00,3/20/24 20:00
+TemplrJS-2161,P1,100,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Jose Hutchinson,Tonya Hart,2/28/24 19:00,3/19/24 20:00
+TemplrJS-2355,P2,80,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Wesley Williams,Lisa Holmes,3/19/24 20:00,3/19/24 20:00
+TemplrJS-2256,P3,88,Unify Access Control for Clinical Information Systems,Closed,OAuth,Wesley Williams,Nathan Clark,3/11/24 20:00,3/19/24 20:00
+TemplrJS-2293,P2,87,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Wesley Williams,Joseph Lee,3/12/24 20:00,3/19/24 20:00
+TemplrJS-2328,P2,82,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Closed,Unlabeled,Kimberly Barnett,Tanya Peters,3/17/24 20:00,3/19/24 20:00
+TemplrJS-2326,P2,82,Unify Access Control for Clinical Information Systems,Closed,OAuth,Sarah Clarke,Sarah Clarke,3/17/24 20:00,3/19/24 20:00
+TemplrJS-1909,P1,128,Resolve Technical Debt for Next-Gen Clinical Data Management,Closed,Unlabeled,Jose Hutchinson,Christian Rollins,1/31/24 19:00,3/19/24 20:00
+TemplrJS-1911,P1,128,Resolve Technical Debt for Next-Gen Clinical Data Management,Closed,Unlabeled,Jose Hutchinson,Christian Rollins,1/31/24 19:00,3/19/24 20:00
+TemplrJS-2356,P3,80,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Wesley Williams,Joseph Lee,3/19/24 20:00,3/19/24 20:00
+TemplrJS-2307,P1,86,Unify Access Control for Clinical Information Systems,Closed,Blocker,Wesley Williams,Jennifer Patrick,3/13/24 20:00,3/19/24 20:00
+TemplrJS-1507,P2,198,Establish Secure Data Transfer Protocols for Trials,Open,Unlabeled,Amy Carroll,Amy Carroll,11/22/23 19:00,3/19/24 20:00
+TemplrJS-2359,P3,80,Unify Access Control for Clinical Information Systems,Closed,OAuth,Wesley Williams,Cheryl Davis,3/19/24 20:00,3/19/24 20:00
+TemplrJS-2344,P2,81,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Wesley Williams,Jennifer Patrick,3/18/24 20:00,3/19/24 20:00
+TemplrJS-2351,P3,80,Unify Access Control for Clinical Information Systems,Closed,OAuth,Amy Carroll,Amy Carroll,3/19/24 20:00,3/19/24 20:00
+TemplrJS-2208,P1,95,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Jose Hutchinson,Nicholas Santana,3/4/24 19:00,3/19/24 20:00
+TemplrJS-2331,P1,81,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Kimberly Barnett,Jennifer Patrick,3/18/24 20:00,3/19/24 20:00
+TemplrJS-2341,P2,81,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Heather Griffith,Jennifer Patrick,3/18/24 20:00,3/19/24 20:00
+TemplrJS-2330,P2,81,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Wesley Williams,Jennifer Patrick,3/18/24 20:00,3/19/24 20:00
+TemplrJS-2009,P3,116,Establish Secure Data Transfer Protocols for Trials,Open,Documentation,Ashley Ramos,Stuart Benitez,2/12/24 19:00,3/18/24 20:00
+TemplrJS-2339,P3,81,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Wesley Williams,Jennifer Patrick,3/18/24 20:00,3/18/24 20:00
+TemplrJS-2261,P3,88,Unify Access Control for Clinical Information Systems,Closed,OAuth,Sarah Clarke,Jennifer Ward,3/11/24 20:00,3/18/24 20:00
+TemplrJS-2236,P1,93,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Ashley Ramos,Stuart Benitez,3/6/24 19:00,3/18/24 20:00
+TemplrJS-2318,P1,85,Unify Access Control for Clinical Information Systems,Closed,OAuth,Kimberly Barnett,Jennifer Patrick,3/14/24 20:00,3/18/24 20:00
+TemplrJS-2249,P1,89,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Jose Hutchinson,Stuart Benitez,3/10/24 20:00,3/18/24 20:00
+TemplrJS-2054,P1,113,Automate Detection of Key Terms in Clinical Reports,Closed,Unlabeled,Kimberly Barnett,Lisa Holmes,2/15/24 19:00,3/18/24 20:00
+TemplrJS-1925,P2,127,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Erika Warren,Stuart Benitez,2/1/24 19:00,3/18/24 20:00
+TemplrJS-2323,P1,82,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Kimberly Barnett,Jennifer Patrick,3/17/24 20:00,3/18/24 20:00
+TemplrJS-1929,P2,127,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Erika Warren,Stuart Benitez,2/1/24 19:00,3/18/24 20:00
+TemplrJS-2308,P1,86,Unify Access Control for Clinical Information Systems,Closed,Blocker,Amy Carroll,Jordan Moon,3/13/24 20:00,3/18/24 20:00
+TemplrJS-2194,P2,95,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Resolved,Unlabeled,Kimberly Barnett,Melissa Thornton,3/4/24 19:00,3/18/24 20:00
+TemplrJS-2324,P3,82,Unify Access Control for Clinical Information Systems,Closed,OAuth,Sarah Clarke,Sarah Clarke,3/17/24 20:00,3/18/24 20:00
+TemplrJS-2297,P2,87,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Wesley Williams,Jennifer Patrick,3/12/24 20:00,3/17/24 20:00
+TemplrJS-2148,P3,100,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Closed,Unlabeled,Sarah Clarke,Melissa Thornton,2/28/24 19:00,3/17/24 20:00
+TemplrJS-1997,P3,117,Implement Advanced Data Table Monitoring Solutions,Closed,Unlabeled,Sarah Clarke,Tanya Peters,2/11/24 19:00,3/17/24 20:00
+TemplrJS-1631,P1,173,Enable Integration of Structured Clinical Data in File Systems,Open,Unlabeled,Kimberly Barnett,Fred Giles,12/17/23 19:00,3/17/24 20:00
+TemplrJS-1261,P2,236,Establish Secure Data Transfer Protocols for Trials,Open,Release Note,Sarah Clarke,Heather Griffith,10/15/23 20:00,3/17/24 20:00
+TemplrJS-2174,P2,96,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Closed,Unlabeled,Sarah Clarke,Joseph Lee,3/3/24 19:00,3/17/24 20:00
+TemplrJS-2327,P2,82,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Wesley Williams,Stuart Benitez,3/17/24 20:00,3/17/24 20:00
+TemplrJS-2291,P2,87,Automate Detection of Key Terms in Clinical Reports,Closed,Unlabeled,Kimberly Barnett,Lisa Holmes,3/12/24 20:00,3/17/24 20:00
+TemplrJS-2254,P3,88,Unify Access Control for Clinical Information Systems,Closed,OAuth,Sarah Clarke,Kelly Floyd,3/11/24 20:00,3/17/24 20:00
+TemplrJS-2026,P3,115,Develop Clinical Data Dictionary Interface,Closed,Unlabeled,Amy Carroll,Amber Dickson,2/13/24 19:00,3/17/24 20:00
+TemplrJS-2317,P3,85,Unify Access Control for Clinical Information Systems,Closed,OAuth,Wesley Williams,Colton Guerrero,3/14/24 20:00,3/17/24 20:00
+TemplrJS-2252,P3,89,Unify Access Control for Clinical Information Systems,Closed,OAuth,Wesley Williams,Nathan Clark,3/10/24 20:00,3/17/24 20:00
+TemplrJS-2302,P1,86,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Sarah Clarke,Sarah Clarke,3/13/24 20:00,3/17/24 20:00
+TemplrJS-2146,P3,100,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Closed,Unlabeled,Sarah Clarke,Melissa Thornton,2/28/24 19:00,3/17/24 20:00
+TemplrJS-2191,P3,95,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Closed,Unlabeled,Sarah Clarke,Melissa Thornton,3/4/24 19:00,3/17/24 20:00
+TemplrJS-2325,P2,82,Unify Access Control for Clinical Information Systems,Closed,OAuth,Sarah Clarke,Jordan Moon,3/17/24 20:00,3/17/24 20:00
+TemplrJS-2290,P1,87,Streamline Workflow for Assigning Business Terms in Clinical Data Integration,Closed,Blocker,Kimberly Barnett,Tonya Hart,3/12/24 20:00,3/17/24 20:00
+TemplrJS-2130,P1,102,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Jose Hutchinson,Barbara Smith,2/26/24 19:00,3/17/24 20:00
+TemplrJS-2226,P1,93,Streamline Workflow for Assigning Business Terms in Clinical Data Integration,Closed,Unlabeled,Amy Carroll,Tonya Hart,3/6/24 19:00,3/17/24 20:00
+TemplrJS-2079,P2,109,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Closed,Regression,Kimberly Barnett,Joseph Lee,2/19/24 19:00,3/17/24 20:00
+TemplrJS-2300,P1,86,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Sarah Clarke,Jennifer Patrick,3/13/24 20:00,3/17/24 20:00
+TemplrJS-2295,P1,87,Establish Secure Data Transfer Protocols for Trials,In Review,Unlabeled,Jose Hutchinson,Lisa Holmes,3/12/24 20:00,3/16/24 20:00
+TemplrJS-2108,P1,106,Create Automated Processes for Clinical Vocabulary Development,Closed,Unlabeled,Sarah Clarke,Lisa Holmes,2/22/24 19:00,3/14/24 20:00
+TemplrJS-1663,P1,170,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Kimberly Barnett,Kimberly Barnett,12/20/23 19:00,3/14/24 20:00
+TemplrJS-2258,P2,88,Unify Access Control for Clinical Information Systems,Closed,OAuth,Wesley Williams,Nathan Clark,3/11/24 20:00,3/14/24 20:00
+TemplrJS-2193,P2,95,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Closed,Unlabeled,Wesley Williams,Stuart Benitez,3/4/24 19:00,3/14/24 20:00
+TemplrJS-2268,P1,88,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Kimberly Barnett,Jennifer Ross,3/11/24 20:00,3/14/24 20:00
+TemplrJS-2234,P3,93,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Closed,Unlabeled,Sarah Clarke,Joseph Lee,3/6/24 19:00,3/14/24 20:00
+TemplrJS-2232,P1,93,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Closed,Unlabeled,Sarah Clarke,Melissa Thornton,3/6/24 19:00,3/14/24 20:00
+TemplrJS-2231,P3,93,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Closed,Unlabeled,Wesley Williams,Joseph Lee,3/6/24 19:00,3/14/24 20:00
+TemplrJS-2304,P3,86,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Wesley Williams,Jennifer Patrick,3/13/24 20:00,3/14/24 20:00
+TemplrJS-2275,P2,88,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Wesley Williams,Jennifer Patrick,3/11/24 20:00,3/14/24 20:00
+TemplrJS-2277,P2,88,Enable Integration of Structured Clinical Data in File Systems,Closed,Unlabeled,Sarah Clarke,Amber Dickson,3/11/24 20:00,3/14/24 20:00
+TemplrJS-2310,P2,86,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Wesley Williams,Tanya Peters,3/13/24 20:00,3/14/24 20:00
+TemplrJS-2298,P3,87,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Wesley Williams,Tanya Peters,3/12/24 20:00,3/14/24 20:00
+TemplrJS-2266,P3,88,Unify Access Control for Clinical Information Systems,Closed,OAuth,Wesley Williams,Kelly Floyd,3/11/24 20:00,3/14/24 20:00
+TemplrJS-2267,P3,88,Unify Access Control for Clinical Information Systems,Closed,OAuth,Wesley Williams,Kelly Floyd,3/11/24 20:00,3/14/24 20:00
+TemplrJS-2250,P3,89,Unify Access Control for Clinical Information Systems,Closed,OAuth,Wesley Williams,Kelly Floyd,3/10/24 20:00,3/14/24 20:00
+TemplrJS-2233,P3,93,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Closed,Unlabeled,Sarah Clarke,Joseph Lee,3/6/24 19:00,3/14/24 20:00
+TemplrJS-2289,P3,87,Develop Clinical Data Dictionary Interface,Closed,Regression,Kimberly Barnett,Nicholas Santana,3/12/24 20:00,3/14/24 20:00
+TemplrJS-2292,P3,87,Enable Cloud-Based Clinical Data Handling,Closed,Unlabeled,Sarah Clarke,Dillon Riggs,3/12/24 20:00,3/14/24 20:00
+TemplrJS-2115,P2,103,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Wesley Williams,Joseph Lee,2/25/24 19:00,3/14/24 20:00
+TemplrJS-2284,P3,87,Enable Integration of Structured Clinical Data in File Systems,Closed,Improvement,Kimberly Barnett,Lisa Holmes,3/12/24 20:00,3/13/24 20:00
+TemplrJS-2309,P3,86,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Wesley Williams,Melissa Thornton,3/13/24 20:00,3/13/24 20:00
+TemplrJS-1848,P1,131,Develop Clinical Data Dictionary Interface,Closed,Unlabeled,Kimberly Barnett,Melissa Thornton,1/28/24 19:00,3/13/24 20:00
+TemplrJS-1658,P3,171,Enable Integration of Structured Clinical Data in File Systems,Open,Release Note,Kimberly Barnett,Tonya Hart,12/19/23 19:00,3/13/24 20:00
+TemplrJS-1678,P2,156,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Kimberly Barnett,Tanya Peters,1/3/24 19:00,3/13/24 20:00
+TemplrJS-1213,P2,242,Establish Secure Data Transfer Protocols for Trials,Reopened,Release Note,Amy Carroll,Nicholas Santana,10/9/23 20:00,3/13/24 20:00
+TemplrJS-1751,P2,148,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Wesley Williams,Tanya Peters,1/11/24 19:00,3/13/24 20:00
+TemplrJS-2259,P1,88,Unify Access Control for Clinical Information Systems,Closed,OAuth,Wesley Williams,Cheryl Davis,3/11/24 20:00,3/12/24 20:00
+TemplrJS-2288,P2,87,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Wesley Williams,Wesley Williams,3/12/24 20:00,3/12/24 20:00
+TemplrJS-1628,P2,173,Improve Clinical Data Rescan Procedures for Efficiency,Closed,Unlabeled,Kimberly Barnett,Lisa Holmes,12/17/23 19:00,3/12/24 20:00
+TemplrJS-2204,P1,95,Improve Clinical Data Rescan Procedures for Efficiency,Closed,Regression,Kimberly Barnett,Lisa Holmes,3/4/24 19:00,3/12/24 20:00
+TemplrJS-2280,P2,87,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Kimberly Barnett,Kimberly Barnett,3/12/24 20:00,3/12/24 20:00
+TemplrJS-2159,P3,100,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Closed,Unlabeled,Sarah Clarke,Joseph Lee,2/28/24 19:00,3/12/24 20:00
+TemplrJS-2149,P2,100,Address Specific Data System Optimization Requests for Patient Data Services,Closed,Unlabeled,Sarah Clarke,Nicholas Santana,2/28/24 19:00,3/12/24 20:00
+TemplrJS-2272,P3,88,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Kimberly Barnett,Lisa Holmes,3/11/24 20:00,3/12/24 20:00
+TemplrJS-2053,P3,113,Enable Integration of Structured Clinical Data in File Systems,Closed,Unlabeled,Kimberly Barnett,Christian Rollins,2/15/24 19:00,3/12/24 20:00
+TemplrJS-1786,P2,141,Develop Clinical Data Dictionary Interface,Closed,Unlabeled,Amy Carroll,Amy Carroll,1/18/24 19:00,3/12/24 20:00
+TemplrJS-1877,P1,129,Automate Detection of Key Terms in Clinical Reports,Closed,Regression,Kimberly Barnett,Tanya Peters,1/30/24 19:00,3/12/24 20:00
+TemplrJS-2197,P2,95,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,William Ford,Lisa Holmes,3/4/24 19:00,3/12/24 20:00
+TemplrJS-2244,P2,89,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,William Ford,Melissa Thornton,3/10/24 20:00,3/12/24 20:00
+TemplrJS-1762,P3,142,Improve Clinical Data Rescan Procedures for Efficiency,Closed,Unlabeled,Kimberly Barnett,Lisa Holmes,1/17/24 19:00,3/12/24 20:00
+TemplrJS-2255,P3,88,Unify Access Control for Clinical Information Systems,Closed,OAuth,Wesley Williams,Krista Dean,3/11/24 20:00,3/12/24 20:00
+TemplrJS-2251,P3,89,Unify Access Control for Clinical Information Systems,Closed,OAuth,Wesley Williams,Nathan Clark,3/10/24 20:00,3/12/24 20:00
+TemplrJS-2220,P2,94,Develop Clinical Data Dictionary Interface,Closed,Unlabeled,Kimberly Barnett,Tonya Hart,3/5/24 19:00,3/11/24 20:00
+TemplrJS-2092,P2,108,Establish Secure Data Transfer Protocols for Trials,Closed,Regression,Kimberly Barnett,Lisa Holmes,2/20/24 19:00,3/11/24 20:00
+TemplrJS-1970,P3,122,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Joshua Mueller,Amber Dickson,2/6/24 19:00,3/11/24 20:00
+TemplrJS-1626,P2,173,Improve Clinical Data Rescan Procedures for Efficiency,Closed,Unlabeled,Kimberly Barnett,Lisa Holmes,12/17/23 19:00,3/11/24 20:00
+TemplrJS-982,P4,256,Facilitate In-Context Communication for Healthcare Assets,Closed,Unlabeled,William Ford,William Ford,9/25/23 20:00,3/11/24 20:00
+TemplrJS-1876,P5,129,Refine Data Filters for Clinical Information File Systems,Closed,Unlabeled,Kimberly Barnett,Tanya Peters,1/30/24 19:00,3/11/24 20:00
+TemplrJS-2085,P1,108,Automate Detection of Key Terms in Clinical Reports,Closed,Unlabeled,Kimberly Barnett,Tanya Peters,2/20/24 19:00,3/11/24 20:00
+TemplrJS-2260,P2,88,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Kimberly Barnett,Jared Castillo,3/11/24 20:00,3/11/24 20:00
+TemplrJS-2052,P3,113,Automate Detection of Key Terms in Clinical Reports,Closed,Unlabeled,Kimberly Barnett,Amber Dickson,2/15/24 19:00,3/11/24 20:00
+TemplrJS-1669,P2,165,Establish Secure Data Transfer Protocols for Trials,Closed,Regression,Kimberly Barnett,Tanya Peters,12/25/23 19:00,3/11/24 20:00
+TemplrJS-1645,P1,172,Enhance Extraction of Document Attributes for Clinical Use,Closed,Unlabeled,Kimberly Barnett,Lisa Holmes,12/18/23 19:00,3/11/24 20:00
+TemplrJS-1108,P2,249,Establish Secure Data Transfer Protocols for Trials,Resolved,Unlabeled,Amy Carroll,Barbara Smith,10/2/23 20:00,3/10/24 20:00
+TemplrJS-2128,P2,102,Establish Secure Data Transfer Protocols for Trials,Resolved,Unlabeled,Jose Hutchinson,Lisa Holmes,2/26/24 19:00,3/10/24 20:00
+TemplrJS-1362,P1,218,Address Specific Data System Optimization Requests for Patient Data Services,Closed,Review,Kimberly Barnett,Charles Salazar,11/2/23 20:00,3/7/24 19:00
+TemplrJS-2203,P2,95,Automate Detection of Key Terms in Clinical Reports,Closed,Unlabeled,Kimberly Barnett,Christian Rollins,3/4/24 19:00,3/7/24 19:00
+TemplrJS-1525,P3,190,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Raymond Bernard,Dillon Riggs,11/30/23 19:00,3/7/24 19:00
+TemplrJS-2229,P2,93,Refine Data Filters for Clinical Information File Systems,Closed,Release Note,Kimberly Barnett,Christian Rollins,3/6/24 19:00,3/7/24 19:00
+TemplrJS-2213,P1,94,Develop Clinical Data Dictionary Interface,Closed,Blocker,Amy Carroll,Tonya Hart,3/5/24 19:00,3/6/24 19:00
+TemplrJS-2132,P2,101,Develop Clinical Data Dictionary Interface,Closed,Unlabeled,Amy Carroll,Tonya Hart,2/27/24 19:00,3/6/24 19:00
+TemplrJS-2121,P1,102,Create Automated Processes for Clinical Vocabulary Development,Closed,Unlabeled,Amy Carroll,Tonya Hart,2/26/24 19:00,3/6/24 19:00
+TemplrJS-2088,P1,108,Create Automated Processes for Clinical Vocabulary Development,Closed,Unlabeled,Kimberly Barnett,Tonya Hart,2/20/24 19:00,3/6/24 19:00
+TemplrJS-2028,P1,114,Automate Detection of Key Terms in Clinical Reports,Closed,Unlabeled,Kimberly Barnett,Kenneth Castillo,2/14/24 19:00,3/6/24 19:00
+TemplrJS-2027,P1,114,Enable Integration of Structured Clinical Data in File Systems,Closed,Blocker,Kimberly Barnett,Tonya Hart,2/14/24 19:00,3/6/24 19:00
+TemplrJS-2118,P2,103,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Wesley Williams,Stuart Benitez,2/25/24 19:00,3/6/24 19:00
+TemplrJS-2179,P2,96,Automate Detection of Key Terms in Clinical Reports,Closed,Unlabeled,Sarah Clarke,Kenneth Castillo,3/3/24 19:00,3/5/24 19:00
+TemplrJS-2202,P2,95,Develop Clinical Data Dictionary Interface,Closed,Unlabeled,Kimberly Barnett,Tonya Hart,3/4/24 19:00,3/5/24 19:00
+TemplrJS-2133,P1,101,Streamline Workflow for Assigning Business Terms in Clinical Data Integration,Closed,Unlabeled,Kimberly Barnett,Tonya Hart,2/27/24 19:00,3/5/24 19:00
+TemplrJS-2200,P2,95,Develop Clinical Data Dictionary Interface,Closed,Unlabeled,Kimberly Barnett,Tonya Hart,3/4/24 19:00,3/5/24 19:00
+TemplrJS-1884,P2,129,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Kimberly Barnett,Kimberly Barnett,1/30/24 19:00,3/5/24 19:00
+TemplrJS-1883,P2,129,Establish Secure Data Transfer Protocols for Trials,Resolved,Unlabeled,Kimberly Barnett,Charles Salazar,1/30/24 19:00,3/5/24 19:00
+TemplrJS-2164,P2,99,Enable Integration of Structured Clinical Data in File Systems,Closed,Unlabeled,Kimberly Barnett,Tonya Hart,2/29/24 19:00,3/5/24 19:00
+TemplrJS-2047,P2,113,Consolidate Clinical Terminology Resources,Closed,Unlabeled,Sarah Clarke,Joseph Lee,2/15/24 19:00,3/5/24 19:00
+TemplrJS-1531,P3,186,Enable Integration of Structured Clinical Data in File Systems,Closed,Unlabeled,Erika Warren,Lisa Holmes,12/4/23 19:00,3/5/24 19:00
+TemplrJS-1956,P2,123,Address Specific Data System Optimization Requests for Patient Data Services,Closed,Unlabeled,Sarah Clarke,Lisa Holmes,2/5/24 19:00,3/5/24 19:00
+TemplrJS-2195,P2,95,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Closed,Unlabeled,Sarah Clarke,Joseph Lee,3/4/24 19:00,3/5/24 19:00
+TemplrJS-2187,P2,96,Enable Integration of Structured Clinical Data in File Systems,Closed,Unlabeled,Sarah Clarke,Nicholas Santana,3/3/24 19:00,3/5/24 19:00
+TemplrJS-2162,P1,99,Automate Detection of Key Terms in Clinical Reports,Closed,Unlabeled,Kimberly Barnett,Tonya Hart,2/29/24 19:00,3/5/24 19:00
+TemplrJS-2181,P2,96,Automate Detection of Key Terms in Clinical Reports,Closed,Unlabeled,Kimberly Barnett,Kenneth Castillo,3/3/24 19:00,3/5/24 19:00
+TemplrJS-2147,P2,100,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Closed,Unlabeled,Wesley Williams,Wesley Williams,2/28/24 19:00,3/5/24 19:00
+TemplrJS-2145,P2,100,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Closed,Unlabeled,Sarah Clarke,Kevin Williams,2/28/24 19:00,3/5/24 19:00
+TemplrJS-1569,P2,183,Enable Integration of Structured Clinical Data in File Systems,Closed,Unlabeled,Kimberly Barnett,Tanya Peters,12/7/23 19:00,3/5/24 19:00
+TemplrJS-2205,P2,95,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Sarah Clarke,Sarah Clarke,3/4/24 19:00,3/5/24 19:00
+TemplrJS-2144,P1,100,Create Automated Processes for Clinical Vocabulary Development,Closed,Regression,Kimberly Barnett,Tonya Hart,2/28/24 19:00,3/5/24 19:00
+TemplrJS-1947,P2,124,Enable Integration of Structured Clinical Data in File Systems,Closed,Unlabeled,Kimberly Barnett,Tanya Peters,2/4/24 19:00,3/4/24 19:00
+TemplrJS-1671,P2,164,Enable Integration of Structured Clinical Data in File Systems,Closed,Unlabeled,Kimberly Barnett,Kenneth Castillo,12/26/23 19:00,3/4/24 19:00
+TemplrJS-2151,P1,100,Enable Integration of Structured Clinical Data in File Systems,Closed,Unlabeled,Kimberly Barnett,Tanya Peters,2/28/24 19:00,3/3/24 19:00
+TemplrJS-2134,P1,101,Streamline Workflow for Assigning Business Terms in Clinical Data Integration,Closed,Unlabeled,Kimberly Barnett,Tonya Hart,2/27/24 19:00,2/29/24 19:00
+TemplrJS-1629,P1,173,Enable Integration of Structured Clinical Data in File Systems,Closed,Unlabeled,Kimberly Barnett,Christian Rollins,12/17/23 19:00,2/29/24 19:00
+TemplrJS-2124,P1,102,Establish Secure Data Transfer Protocols for Trials,Resolved,Unlabeled,Nicholas Santana,Tanya Peters,2/26/24 19:00,2/29/24 19:00
+TemplrJS-1446,P3,207,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Kimberly Barnett,Tanya Peters,11/13/23 19:00,2/29/24 19:00
+TemplrJS-2119,P2,103,Automate Detection of Key Terms in Clinical Reports,Closed,Unlabeled,Jose Hutchinson,Christian Rollins,2/25/24 19:00,2/28/24 19:00
+TemplrJS-2152,P3,100,Establish Secure Data Transfer Protocols for Trials,Open,Unlabeled,Amy Carroll,Charles Salazar,2/28/24 19:00,2/28/24 19:00
+TemplrJS-2111,P3,103,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Sarah Clarke,Kevin Williams,2/25/24 19:00,2/28/24 19:00
+TemplrJS-2139,P1,100,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Sarah Clarke,Sarah Clarke,2/28/24 19:00,2/28/24 19:00
+TemplrJS-2131,P1,101,Establish Secure Data Transfer Protocols for Trials,Closed,Blocker,Kimberly Barnett,Tonya Hart,2/27/24 19:00,2/27/24 19:00
+TemplrJS-2080,P1,109,Automate Detection of Key Terms in Clinical Reports,Closed,Unlabeled,Kimberly Barnett,Kenneth Castillo,2/19/24 19:00,2/27/24 19:00
+TemplrJS-2057,P2,113,Develop Clinical Data Dictionary Interface,Closed,Unlabeled,Amy Carroll,Tonya Hart,2/15/24 19:00,2/26/24 19:00
+TemplrJS-2032,P1,114,Automate Detection of Key Terms in Clinical Reports,Closed,Unlabeled,Kimberly Barnett,Kenneth Castillo,2/14/24 19:00,2/26/24 19:00
+TemplrJS-1965,P1,122,Refine Data Filters for Clinical Information File Systems,Closed,Unlabeled,Kimberly Barnett,Janet Sanchez,2/6/24 19:00,2/26/24 19:00
+TemplrJS-1796,P3,138,Develop Clinical Data Dictionary Interface,Closed,Unlabeled,Amy Carroll,Stuart Benitez,1/21/24 19:00,2/26/24 19:00
+TemplrJS-2101,P1,107,Create Automated Processes for Clinical Vocabulary Development,Closed,Unlabeled,Sarah Clarke,Nicholas Santana,2/21/24 19:00,2/26/24 19:00
+TemplrJS-2113,P1,103,Streamline Workflow for Assigning Business Terms in Clinical Data Integration,Closed,Unlabeled,Kimberly Barnett,Tanya Peters,2/25/24 19:00,2/26/24 19:00
+TemplrJS-2086,P3,108,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Kimberly Barnett,Tanya Peters,2/20/24 19:00,2/25/24 19:00
+TemplrJS-2104,P1,107,Streamline Workflow for Assigning Business Terms in Clinical Data Integration,Closed,Unlabeled,Kimberly Barnett,Tonya Hart,2/21/24 19:00,2/25/24 19:00
+TemplrJS-2051,P1,113,Automate Detection of Key Terms in Clinical Reports,Closed,Unlabeled,Kimberly Barnett,Kenneth Castillo,2/15/24 19:00,2/25/24 19:00
+TemplrJS-1297,P1,228,Establish Secure Data Transfer Protocols for Trials,Resolved,Unlabeled,Stuart Benitez,Kenneth Castillo,10/23/23 20:00,2/25/24 19:00
+TemplrJS-2025,P2,115,Develop Clinical Data Dictionary Interface,Closed,Unlabeled,Amy Carroll,Tanya Peters,2/13/24 19:00,2/25/24 19:00
+TemplrJS-2094,P1,108,Enable Integration of Structured Clinical Data in File Systems,Closed,Unlabeled,Kimberly Barnett,Tanya Peters,2/20/24 19:00,2/25/24 19:00
+TemplrJS-1946,P1,124,Streamline Workflow for Assigning Business Terms in Clinical Data Integration,Closed,Blocker,Amy Carroll,Tonya Hart,2/4/24 19:00,2/25/24 19:00
+TemplrJS-2095,P3,108,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,William Ford,Tanya Peters,2/20/24 19:00,2/22/24 19:00
+TemplrJS-2100,P1,107,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Kimberly Barnett,Kimberly Barnett,2/21/24 19:00,2/21/24 19:00
+TemplrJS-2046,P1,114,Establish Secure Data Transfer Protocols for Trials,Resolved,Unlabeled,Jose Hutchinson,Lisa Holmes,2/14/24 19:00,2/21/24 19:00
+TemplrJS-2102,P2,107,Create Automated Processes for Clinical Vocabulary Development,Closed,Unlabeled,Sarah Clarke,Tanya Peters,2/21/24 19:00,2/21/24 19:00
+TemplrJS-2019,P3,116,Enhance Glossary Infrastructure for Improved Clinical Data Handling,Closed,Unlabeled,Kimberly Barnett,Melissa Thornton,2/12/24 19:00,2/21/24 19:00
+TemplrJS-2078,P1,109,Develop Clinical Data Dictionary Interface,Closed,Blocker,Kimberly Barnett,Tanya Peters,2/19/24 19:00,2/20/24 19:00
+TemplrJS-1834,P2,135,Resolve Technical Debt for Next-Gen Clinical Data Management,Closed,Unlabeled,Sarah Clarke,Lisa Holmes,1/24/24 19:00,2/20/24 19:00
+TemplrJS-2062,P1,110,Enable Integration of Structured Clinical Data in File Systems,Closed,Regression,Kimberly Barnett,Christian Rollins,2/18/24 19:00,2/20/24 19:00
+TemplrJS-2029,P1,114,Develop Clinical Data Dictionary Interface,Closed,Unlabeled,Kimberly Barnett,Tanya Peters,2/14/24 19:00,2/20/24 19:00
+TemplrJS-2044,P1,114,Establish Secure Data Transfer Protocols for Trials,Resolved,Blocker,Jose Hutchinson,Lisa Holmes,2/14/24 19:00,2/20/24 19:00
+TemplrJS-1988,P2,120,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Sarah Clarke,Kenneth Castillo,2/8/24 19:00,2/19/24 19:00
+TemplrJS-1996,P3,117,Implement Advanced Data Table Monitoring Solutions,Closed,Unlabeled,Sarah Clarke,Kenneth Castillo,2/11/24 19:00,2/19/24 19:00
+TemplrJS-1998,P2,117,Optimize Server Load Handling and Output Management,Closed,Unlabeled,Sarah Clarke,Kenneth Castillo,2/11/24 19:00,2/19/24 19:00
+TemplrJS-1784,P2,141,Develop Clinical Data Dictionary Interface,Closed,Unlabeled,Amy Carroll,Amber Dickson,1/18/24 19:00,2/19/24 19:00
+TemplrJS-1490,P3,204,Establish Secure Data Transfer Protocols for Trials,Closed,Review,Kimberly Barnett,Amber Dickson,11/16/23 19:00,2/19/24 19:00
+TemplrJS-1901,P1,128,Optimize Server Load Handling and Output Management,Closed,Unlabeled,Lisa Holmes,Lisa Holmes,1/31/24 19:00,2/19/24 19:00
+TemplrJS-2020,P2,116,Implement Advanced Data Table Monitoring Solutions,Closed,Unlabeled,Sarah Clarke,Dillon Riggs,2/12/24 19:00,2/18/24 19:00
+TemplrJS-1892,P1,128,Optimize Server Load Handling and Output Management,Closed,Regression,Kimberly Barnett,Lisa Holmes,1/31/24 19:00,2/15/24 19:00
+TemplrJS-1874,P1,129,Develop Clinical Data Dictionary Interface,Closed,Regression,Kimberly Barnett,Tonya Hart,1/30/24 19:00,2/15/24 19:00
+TemplrJS-2030,P1,114,Automate Detection of Key Terms in Clinical Reports,Closed,Unlabeled,Kimberly Barnett,Christian Rollins,2/14/24 19:00,2/15/24 19:00
+TemplrJS-2031,P1,114,Automate Detection of Key Terms in Clinical Reports,Closed,Unlabeled,Kimberly Barnett,Christian Rollins,2/14/24 19:00,2/15/24 19:00
+TemplrJS-2023,P2,115,Develop Clinical Data Dictionary Interface,Closed,Unlabeled,Amy Carroll,Tonya Hart,2/13/24 19:00,2/15/24 19:00
+TemplrJS-1583,P1,178,Automate Detection of Key Terms in Clinical Reports,Resolved,Unlabeled,Jose Hutchinson,Christian Rollins,12/12/23 19:00,2/15/24 19:00
+TemplrJS-1493,P1,200,Track Metadata More Effectively in Clinical File Systems,Closed,Release Note,Kimberly Barnett,Tonya Hart,11/20/23 19:00,2/14/24 19:00
+TemplrJS-1491,P3,201,Unify Access Control for Clinical Information Systems,Closed,Unlabeled,Kimberly Barnett,Amber Dickson,11/19/23 19:00,2/14/24 19:00
+TemplrJS-1166,P4,246,Establish Secure Data Transfer Protocols for Trials,Closed,Documentation,Kimberly Barnett,Lisa Holmes,10/5/23 20:00,2/14/24 19:00
+TemplrJS-1634,P1,173,Enable Integration of Structured Clinical Data in File Systems,Closed,Unlabeled,Kimberly Barnett,Tanya Peters,12/17/23 19:00,2/14/24 19:00
+TemplrJS-1664,P2,170,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Kimberly Barnett,Nicholas Santana,12/20/23 19:00,2/13/24 19:00
+TemplrJS-1971,P2,122,Unify Access Control for Clinical Information Systems,Closed,Regression,William Ford,Jennifer Patrick,2/6/24 19:00,2/13/24 19:00
+TemplrJS-1793,P1,138,Develop Clinical Data Dictionary Interface,Closed,Unlabeled,Amy Carroll,Tonya Hart,1/21/24 19:00,2/13/24 19:00
+TemplrJS-1819,P1,136,Develop Clinical Data Dictionary Interface,Closed,Blocker,Amy Carroll,Amber Dickson,1/23/24 19:00,2/12/24 19:00
+TemplrJS-1985,P1,120,Unify Access Control for Clinical Information Systems,Closed,Blocker,Kimberly Barnett,Amber Dickson,2/8/24 19:00,2/12/24 19:00
+TemplrJS-1986,P2,120,Consolidate Clinical Terminology Resources,Closed,Unlabeled,Sarah Clarke,Joseph Lee,2/8/24 19:00,2/12/24 19:00
+TemplrJS-1994,P1,117,Establish Secure Data Transfer Protocols for Trials,Closed,Blocker,Kimberly Barnett,Kenneth Castillo,2/11/24 19:00,2/12/24 19:00
+TemplrJS-1987,P2,120,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Sarah Clarke,Lisa Holmes,2/8/24 19:00,2/11/24 19:00
+TemplrJS-1748,P1,148,Address Specific Data System Optimization Requests for Patient Data Services,Closed,Blocker,Sarah Clarke,Nicholas Santana,1/11/24 19:00,2/8/24 19:00
+TemplrJS-1761,P1,142,Implement Advanced Data Table Monitoring Solutions,Closed,Blocker,Sarah Clarke,Dillon Riggs,1/17/24 19:00,2/8/24 19:00
+TemplrJS-1966,P2,122,Optimize Server Load Handling and Output Management,Closed,Regression,Sarah Clarke,Lisa Holmes,2/6/24 19:00,2/8/24 19:00
+TemplrJS-1198,P2,243,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Jose Hutchinson,Jose Hutchinson,10/8/23 20:00,2/7/24 19:00
+TemplrJS-1953,P1,123,Establish Secure Data Transfer Protocols for Trials,Closed,Blocker,Wesley Williams,Lisa Holmes,2/5/24 19:00,2/6/24 19:00
+TemplrJS-1948,P1,124,Enable Cloud-Based Clinical Data Handling,Closed,Unlabeled,Sarah Clarke,Dillon Riggs,2/4/24 19:00,2/6/24 19:00
+TemplrJS-1936,P1,127,Enable Cloud-Based Clinical Data Handling,Closed,Unlabeled,Sarah Clarke,Dillon Riggs,2/1/24 19:00,2/4/24 19:00
+TemplrJS-1886,P1,129,Optimize Server Load Handling and Output Management,Closed,Unlabeled,Sarah Clarke,Lisa Holmes,1/30/24 19:00,2/4/24 19:00
+TemplrJS-1888,P1,128,Develop Clinical Data Dictionary Interface,Closed,Blocker,Amy Carroll,Tanya Peters,1/31/24 19:00,2/4/24 19:00
+TemplrJS-1894,P2,128,Streamline Data Collection via Remote Access,Closed,Unlabeled,Sarah Clarke,Sarah Clarke,1/31/24 19:00,2/1/24 19:00
+TemplrJS-1765,P3,142,Develop Clinical Data Dictionary Interface,Closed,Unlabeled,Amy Carroll,Amber Dickson,1/17/24 19:00,1/31/24 19:00
+TemplrJS-1167,P1,246,Optimize Server Load Handling and Output Management,Closed,Unlabeled,Amy Carroll,Lisa Holmes,10/5/23 20:00,1/31/24 19:00
+TemplrJS-1797,P3,138,Develop Clinical Data Dictionary Interface,Closed,Unlabeled,Amy Carroll,Amber Dickson,1/21/24 19:00,1/31/24 19:00
+TemplrJS-1826,P3,136,Simplify Management of Clinical Metadata Across System Updates,Closed,Unlabeled,Heather Griffith,Fred Giles,1/23/24 19:00,1/31/24 19:00
+TemplrJS-1764,P3,142,Develop Clinical Data Dictionary Interface,Closed,Unlabeled,Amy Carroll,Amber Dickson,1/17/24 19:00,1/31/24 19:00
+TemplrJS-1853,P2,130,Address Specific Data System Optimization Requests for Patient Data Services,Closed,Unlabeled,Sarah Clarke,Nicholas Santana,1/29/24 19:00,1/31/24 19:00
+TemplrJS-1716,P3,152,Streamline Workflow for Assigning Business Terms in Clinical Data Integration,Closed,Unlabeled,Amy Carroll,Amber Dickson,1/7/24 19:00,1/31/24 19:00
+TemplrJS-693,P2,276,Address Specific Data System Optimization Requests for Patient Data Services,Closed,Unlabeled,Kimberly Barnett,Nicholas Santana,9/5/23 20:00,1/30/24 19:00
+TemplrJS-1875,P3,129,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Kimberly Barnett,Lisa Holmes,1/30/24 19:00,1/30/24 19:00
+TemplrJS-1195,P2,243,Optimize Server Load Handling and Output Management,Resolved,Unlabeled,Jose Hutchinson,Lisa Holmes,10/8/23 20:00,1/29/24 19:00
+TemplrJS-1821,P3,136,Develop Clinical Data Dictionary Interface,Closed,Unlabeled,Amy Carroll,Amber Dickson,1/23/24 19:00,1/29/24 19:00
+TemplrJS-1868,P2,130,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Kimberly Barnett,Stuart Benitez,1/29/24 19:00,1/29/24 19:00
+TemplrJS-1794,P3,138,Develop Clinical Data Dictionary Interface,Closed,Unlabeled,Amy Carroll,Amber Dickson,1/21/24 19:00,1/29/24 19:00
+TemplrJS-1782,P1,141,Address Specific Data System Optimization Requests for Patient Data Services,Closed,Unlabeled,Sarah Clarke,Nicholas Santana,1/18/24 19:00,1/29/24 19:00
+TemplrJS-1843,P2,133,Address Specific Data System Optimization Requests for Patient Data Services,Closed,Unlabeled,Nicholas Santana,Nicholas Santana,1/26/24 19:00,1/29/24 19:00
+TemplrJS-1756,P1,143,Refine Data Filters for Clinical Information File Systems,Closed,Unlabeled,Kimberly Barnett,Christian Rollins,1/16/24 19:00,1/28/24 19:00
+TemplrJS-1820,P1,136,Develop Clinical Data Dictionary Interface,Closed,Blocker,Amy Carroll,Tonya Hart,1/23/24 19:00,1/28/24 19:00
+TemplrJS-1785,P1,141,Develop Clinical Data Dictionary Interface,Closed,Unlabeled,Amy Carroll,Tonya Hart,1/18/24 19:00,1/28/24 19:00
+TemplrJS-1651,P2,172,Enable Integration of Structured Clinical Data in File Systems,Closed,Unlabeled,Sarah Clarke,Christian Rollins,12/18/23 19:00,1/24/24 19:00
+TemplrJS-1822,P2,136,Refine Data Filters for Clinical Information File Systems,Closed,Unlabeled,Kimberly Barnett,Christian Rollins,1/23/24 19:00,1/24/24 19:00
+TemplrJS-1750,P1,148,Enable Integration of Structured Clinical Data in File Systems,Closed,Unlabeled,Kimberly Barnett,Christian Rollins,1/11/24 19:00,1/24/24 19:00
+TemplrJS-1789,P3,141,Simplify Management of Clinical Metadata Across System Updates,Closed,Unlabeled,Heather Griffith,Fred Giles,1/18/24 19:00,1/23/24 19:00
+TemplrJS-1795,P4,138,Develop Clinical Data Dictionary Interface,Closed,Unlabeled,Amy Carroll,Amber Dickson,1/21/24 19:00,1/23/24 19:00
+TemplrJS-1684,P1,156,Address Specific Data System Optimization Requests for Patient Data Services,Closed,Blocker,Sarah Clarke,Lisa Holmes,1/3/24 19:00,1/23/24 19:00
+TemplrJS-675,P2,277,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Sarah Clarke,Fred Giles,9/4/23 20:00,1/23/24 19:00
+TemplrJS-1713,P3,152,Develop Clinical Data Dictionary Interface,Closed,Unlabeled,Amy Carroll,Amber Dickson,1/7/24 19:00,1/23/24 19:00
+TemplrJS-1715,P3,152,Develop Clinical Data Dictionary Interface,Closed,Unlabeled,Amy Carroll,Amber Dickson,1/7/24 19:00,1/23/24 19:00
+TemplrJS-1714,P2,152,Enable Integration of Structured Clinical Data in File Systems,Closed,Unlabeled,Kimberly Barnett,Christian Rollins,1/7/24 19:00,1/23/24 19:00
+TemplrJS-1496,P3,199,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Kimberly Barnett,Amber Dickson,11/21/23 19:00,1/22/24 19:00
+TemplrJS-1644,P2,172,Enable Integration of Structured Clinical Data in File Systems,Closed,Unlabeled,Kimberly Barnett,Christian Rollins,12/18/23 19:00,1/22/24 19:00
+TemplrJS-1623,P2,176,Establish Secure Data Transfer Protocols for Trials,Closed,Unlabeled,Erika Warren,Lisa Holmes,12/14/23 19:00,1/17/24 19:00
+TemplrJS-726,P1,274,Address Specific Data System Optimization Requests for Patient Data Services,Closed,Blocker,Kimberly Barnett,Lisa Holmes,9/7/23 20:00,1/16/24 19:00
+TemplrJS-1739,P3,149,Address Specific Data System Optimization Requests for Patient Data Services,Closed,Unlabeled,Sarah Clarke,Lisa Holmes,1/10/24 19:00,1/11/24 19:00
+TemplrJS-1707,P1,152,Address Specific Data System Optimization Requests for Patient Data Services,Closed,Regression,Kimberly Barnett,Lisa Holmes,1/7/24 19:00,1/10/24 19:00
+TemplrJS-1657,P2,171,Enable Integration of Structured Clinical Data in File Systems,Closed,Unlabeled,Kimberly Barnett,Christian Rollins,12/19/23 19:00,1/7/24 19:00
+TemplrJS-1704,P1,155,Establish Secure Data Transfer Protocols for Trials,Closed,Blocker,Kimberly Barnett,Lisa Holmes,1/4/24 19:00,1/7/24 19:00
+TemplrJS-1708,P1,152,Establish Secure Data Transfer Protocols for Trials,Closed,Regression,Kimberly Barnett,James Sandoval,1/7/24 19:00,1/7/24 19:00
+TemplrJS-1687,P1,156,Address Specific Data System Optimization Requests for Patient Data Services,Closed,Unlabeled,Sarah Clarke,Tanya Peters,1/3/24 19:00,1/3/24 19:00
+TemplrJS-1627,P1,173,Enable Integration of Structured Clinical Data in File Systems,Closed,Unlabeled,Kimberly Barnett,Christian Rollins,12/17/23 19:00,12/25/23 19:00
+TemplrJS-1332,P2,222,Establish Secure Data Transfer Protocols for Trials,Resolved,Unlabeled,Jose Hutchinson,Lisa Holmes,10/29/23 20:00,12/20/23 19:00
+TemplrJS-921,P1,261,Establish Secure Data Transfer Protocols for Trials,Resolved,Unlabeled,Erika Warren,Fred Giles,9/20/23 20:00,12/20/23 19:00
