@@ -1,0 +1,26 @@
+source: defects is duckdb.table('defects.csv') extend {
+  measure: 
+    defects_count is count()
+    #percent
+    pcnt_of_defects is defects_count/all(defects_count)
+
+  // Step 2:
+  //  Click the 'Run' button below that will appear above the first "query: "
+  //  once the extension is installed
+  view: by_priority is {
+    group_by: priority
+    aggregate: 
+      defects_count
+      pcnt_of_defects
+  }
+
+  view: by_status is {
+    group_by: status
+    aggregate: 
+      defects_count
+      pcnt_of_defects
+  }
+
+}
+
+run: defects -> by_status
