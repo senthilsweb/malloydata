@@ -1,6 +1,7 @@
-# Define the source of data from the DuckDB table 'defects.csv'
-source: defects is duckdb.table('defects.csv') extend {
-  # Define measures to count defects and calculate the percentage of defects
+>>>markdown
+## Source, Measures and Views
+>>>malloy
+source: defects is postgres.table('pmcloud.defects') extend {
   measure: 
     defects_count is count() // Count of defects
     pcnt_of_defects is defects_count/all(defects_count) // Percentage of defects
@@ -38,24 +39,37 @@ source: defects is duckdb.table('defects.csv') extend {
   }
 }
 
+>>>markdown
+## Nesting by priority within status
+>>>malloy
+
 # Run queries to analyze defects
 run: defects -> by_status + {
-  nest: by_priority // Nesting by priority within status
+  nest: by_priority
 }
+>>>markdown
+## Nesting by priority within status and assignee
+>>>malloy
 
 run: defects -> by_assignee + {
   nest: by_status + {
-    nest: by_priority // Nesting by priority within status and assignee
+    nest: by_priority 
   }
 }
+>>>markdown
+## Nesting by priority within status and epic
+>>>malloy
 
 run: defects -> by_epic + {
   nest: by_status + {
-    nest: by_priority // Nesting by priority within status and epic
+    nest: by_priority
   }
 }
+>>>markdown
+## Get distinct labels
+>>>malloy
 
-# Get distinct labels
+
 run: defects -> {
   group_by: labels // Group by labels
 }
