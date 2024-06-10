@@ -1,7 +1,7 @@
 source: defects is duckdb.table('defects.csv') extend {
   measure: 
     defects_count is count()
-    #percent
+    # percent
     pcnt_of_defects is defects_count/all(defects_count)
 
   // Step 2:
@@ -11,6 +11,7 @@ source: defects is duckdb.table('defects.csv') extend {
     group_by: priority
     aggregate: 
       defects_count
+      # percent
       pcnt_of_defects
   }
 
@@ -18,9 +19,49 @@ source: defects is duckdb.table('defects.csv') extend {
     group_by: status
     aggregate: 
       defects_count
+      # percent
+      pcnt_of_defects
+  }
+
+    view: by_assignee is {
+    group_by: assignee
+    aggregate: 
+      defects_count
+      # percent
+      pcnt_of_defects
+  }
+
+  view: by_epic is {
+    group_by: epic
+    aggregate: 
+      defects_count
+      # percent
       pcnt_of_defects
   }
 
 }
 
-run: defects -> by_status
+run: defects -> by_status + {
+  nest: by_priority
+}
+
+run: defects -> by_assignee + {
+  nest: by_status + {
+    nest: by_priority
+  }
+    
+}
+
+
+run: defects -> by_epic + {
+  nest: by_status + {
+    nest: by_priority
+  }
+    
+}
+
+# Get Distinct labels
+run: defects -> {
+  group_by: labels
+}
+
